@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeeAL1337
-- 👀 I’m interested in getting better in coding
+- 👀 http://www.deeal.pw
 - 🌱 I’m currently learning golang
 - 📫 Dlindner1204@icloud.com
 - 🌵 Discord : DeeAL#6237
